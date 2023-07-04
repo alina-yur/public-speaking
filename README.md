@@ -19,4 +19,5 @@
 * [Going Native: Fast and Lightweight Spring Boot Applications with GraalVM](https://www.youtube.com/watch?v=8umoZWj6UcU) (Spring I/O, Spain, 18-19 May 2023)
 * [Java In The Cloud With GraalVM](https://www.youtube.com/watch?v=cT-nq3Ghv2E) (GOTO Aarhus, Denmark, 22-24 May 2023)
 * [Supercharge your GraalVM applications in 5 steps](https://jnation.pt/speakers/) (JNation, Portugal, 6-7 June 2023)
-[Java In The Cloud With GraalVM](https://gotoams.nl/2023/sessions/2492/java-in-the-cloud-with-graalvm) (GOTO Amsterdam, the Netherlands, 26-29 June 2023)
+* [GraalVM release stream with Thomas Wuerthinger and Fabio Niephaus](https://www.youtube.com/watch?v=lWhEg-6DqM0) (Online, 13 June 2023)
+* [Java In The Cloud With GraalVM](https://gotoams.nl/2023/sessions/2492/java-in-the-cloud-with-graalvm) (GOTO Amsterdam, the Netherlands, 26-29 June 2023)
