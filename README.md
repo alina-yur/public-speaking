@@ -1,7 +1,7 @@
 ## Upcoming talks
 
 * [Supercharge your GraalVM applications in 5 steps](https://2023.javazone.no/program) (JavaZone, Norway, 6-7 September 2023)
-
+* [Supercharge your GraalVM applications in 5 steps](https://2023.accento.dev/talks/) (Accento, Germany, 24-25 October 2023)
 
 ## Previous talks
 
