@@ -1,7 +1,11 @@
 ## Upcoming talks
 
 * [Supercharge your GraalVM applications in 5 steps](https://2023.javazone.no/program) (JavaZone, Norway, 6-7 September 2023)
+* [Everything you need to know about GraalVM Native Image](https://devoxx.be/talk/?id=32668) (deep dive, Devoxx Belgium, 2-6 October 2023)
+* [Bootiful AOT with Spring Boot 3](https://devoxx.be/talk/?id=31412) (deep dive, Devoxx Belgium, 2-6 October 2023)
+* [GraalVM BOF](https://devoxx.be/talk/?id=42006) (Devoxx Belgium, 2-6 October 2023)
 * [Supercharge your GraalVM applications in 5 steps](https://2023.accento.dev/talks/) (Accento, Germany, 24-25 October 2023)
+
 
 ## Previous talks
 
@@ -15,7 +19,7 @@
 * [Supercharge your GraalVM applications in 5 steps](https://romania.voxxeddays.com/supercharge-your-native-image-applications/) (Voxxed Days Bucharest, Romania, 22-24 March 2023)
 * [Supercharge your GraalVM applications in 5 steps](https://www.youtube.com/watch?v=GqzeHctH9Rg) (GeeCon, Poland, 19-21 April)
 * [Revolutionizing Java-Based Applications with GraalVM](https://www.youtube.com/watch?v=Az_Soo7LYIQ) (Devoxx UK, 10-12 May 2023)
-* [Bootiful GraalVM together with Josh Long](https://www.youtube.com/watch?v=3OBhk1c0GBs) (Devoxx UK, 10-12 May 2023)
+* [Bootiful GraalVM](https://www.youtube.com/watch?v=3OBhk1c0GBs) (Devoxx UK, 10-12 May 2023)
 * [Spring I/O Keynote](https://youtu.be/IgmeFeTU1a4?t=1227) (Spring I/O, Spain, 18-19 May 2023)
 * [Going Native: Fast and Lightweight Spring Boot Applications with GraalVM](https://www.youtube.com/watch?v=8umoZWj6UcU) (Spring I/O, Spain, 18-19 May 2023)
 * [Java In The Cloud With GraalVM](https://www.youtube.com/watch?v=cT-nq3Ghv2E) (GOTO Aarhus, Denmark, 22-24 May 2023)
