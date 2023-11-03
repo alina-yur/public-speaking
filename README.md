@@ -1,10 +1,6 @@
 ## Upcoming talks
 
-* [Supercharge your GraalVM applications in 5 steps](https://2023.javazone.no/program) (JavaZone, Norway, 6-7 September 2023)
-* [Everything you need to know about GraalVM Native Image](https://devoxx.be/talk/?id=32668) (deep dive, Devoxx Belgium, 2-6 October 2023)
-* [Bootiful AOT with Spring Boot 3](https://devoxx.be/talk/?id=31412) (deep dive, Devoxx Belgium, 2-6 October 2023)
-* [GraalVM BOF](https://devoxx.be/talk/?id=42006) (Devoxx Belgium, 2-6 October 2023)
-* [Supercharge your GraalVM applications in 5 steps](https://2023.accento.dev/talks/) (Accento, Germany, 24-25 October 2023)
+* [Going AOT: Everything you need to know about GraalVM for Java applications](https://jfall.nl/timetable/) (JFall, the Netherlands, 9 Novemeber 2023)
 
 
 ## Previous talks
@@ -26,3 +22,8 @@
 * [Supercharge your GraalVM applications in 5 steps](https://jnation.pt/speakers/) (JNation, Portugal, 6-7 June 2023)
 * [GraalVM release stream with Thomas Wuerthinger and Fabio Niephaus](https://www.youtube.com/watch?v=lWhEg-6DqM0) (Online, 13 June 2023)
 * [Java In The Cloud With GraalVM](https://gotoams.nl/2023/sessions/2492/java-in-the-cloud-with-graalvm) (GOTO Amsterdam, the Netherlands, 26-29 June 2023)
+* [Supercharge your GraalVM applications in 5 steps](https://2023.javazone.no/program) (JavaZone, Norway, 6-7 September 2023)
+* [Supercharge your GraalVM applications in 5 steps](https://2023.accento.dev/talks/) (Accento, Germany, 24-25 October 2023)
+* [Everything you need to know about GraalVM Native Image](https://www.youtube.com/watch?v=QMwtJojhzl8) (deep dive, Devoxx Belgium, 2-6 October 2023)
+* [Bootiful AOT with Spring Boot 3](https://www.youtube.com/watch?v=M-7r35sttQI) (deep dive, Devoxx Belgium, 2-6 October 2023)
+* [GraalVM BOF](https://devoxx.be/talk/?id=42006) (Devoxx Belgium, 2-6 October 2023)
