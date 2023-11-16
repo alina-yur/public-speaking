@@ -1,7 +1,6 @@
 ## Upcoming talks
 
-* [Going AOT: Everything you need to know about GraalVM for Java applications](https://jfall.nl/timetable/) (JFall, the Netherlands, 9 Novemeber 2023)
-
+Stay tuned :)
 
 ## Previous talks
 
@@ -27,3 +26,5 @@
 * [Everything you need to know about GraalVM Native Image](https://www.youtube.com/watch?v=QMwtJojhzl8) (deep dive, Devoxx Belgium, 2-6 October 2023)
 * [Bootiful AOT with Spring Boot 3](https://www.youtube.com/watch?v=M-7r35sttQI) (deep dive, Devoxx Belgium, 2-6 October 2023)
 * [GraalVM BOF](https://devoxx.be/talk/?id=42006) (Devoxx Belgium, 2-6 October 2023)
+* [Everything you need to know about GraalVM Native Image](https://www.slideshare.net/alinayurenko/everything-you-need-to-know-about-graalvm-native-image) (Cape Town JUG, 26 October 2023)
+* [Going AOT: Everything you need to know about GraalVM for Java applications](https://jfall.nl/timetable/) (JFall, the Netherlands, 9 Novemeber 2023)
