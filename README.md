@@ -1,8 +1,12 @@
 ## Upcoming talks
 
-Stay tuned :)
+* [Fast And Lightweight Spring Boot Applications With GraalVM](https://romania.voxxeddays.com/talk/?id=1761) (Voxxed Days Bucharest, Romania, 26-29 March 2024)
+* [Going AOT: Everything you need to know about GraalVM for Java applications](https://my.doag.org/events/javaland/2024/agenda/#eventDay.1712613600) (Nürburgring, Germany, 9-11 April, 2024)
+* [Going AOT: Everything you need to know about GraalVM for Java applications](https://www.devoxx.fr/schedule/talk/?id=21862) (Devoxx France, 17-19 April, 2024)
 
 ## Previous talks
+
+### 2024
 
 ### 2023
 
