@@ -1,6 +1,6 @@
 ## Upcoming talks
 
-* [GraalVM for JDK 22 Release stream 🚀](https://www.youtube.com/graalvm) (GraalVM Youtube, online, 19 March 2024)
+* [GraalVM for JDK 22 Release stream 🚀](https://www.youtube.com/watch?v=xRcHlBnljwA) (GraalVM Youtube, online, 19 March 2024)
 * [Fast And Lightweight Spring Boot Applications With GraalVM](https://romania.voxxeddays.com/talk/?id=1761) (Voxxed Days Bucharest, Romania, 26-29 March 2024)
 * [Fast And Lightweight Spring Boot Applications With GraalVM](https://jdconf.com/agenda.html#alinay-session) (JDConf EMEA, online, 28 March 2024)
 * [Going AOT: Everything you need to know about GraalVM for Java applications](https://my.doag.org/events/javaland/2024/agenda/#eventDay.1712613600) (Nürburgring, Germany, 9-11 April, 2024)
