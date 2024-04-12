@@ -1,20 +1,21 @@
 ## Upcoming talks
 
-* [Going AOT: Everything you need to know about GraalVM for Java applications](https://my.doag.org/events/javaland/2024/agenda/#eventDay.1712613600) (JavaLand, Nürburgring, Germany, 9-11 April, 2024)
 * [GraalVM @ The GeekNarrator podcast]() (TBA, 15 April, 2024)
 * [Going AOT: Everything you need to know about GraalVM for Java applications](https://www.devoxx.fr/schedule/talk/?id=21862) (Devoxx France, 17-19 April, 2024)
 * [Bootiful Spring Boot 3 (hosting)](https://www.meetup.com/virtualjug/events/299675358/) (Virtual JUG, virtual, 18 April 2024)
 * [Going AOT: Everything you need to know about GraalVM for Java applications](https://www.devoxx.fr/schedule/talk/?id=21862) (Devoxx Greece, 18-20 April, 2024)
 * [Going AOT: Everything you need to know about GraalVM for Java applications](https://www.devoxx.co.uk/talk/?id=9351) (Devoxx UK, 8-10 May, 2024)
-* [Fast and Lightweight Spring Boot Applications with GraalVM](https://2024.europe.jcon.one/)(JCON, Cologne, Germany, 13-16 May, 2024)
-* [Fast and Lightweight Spring Boot Applications with GraalVM](https://2024.geecon.org/speakers/info.html?id=888)(GeeCon, Cracow, Poland, 15-17 May, 2024)
+* [Fast and Lightweight Spring Boot Applications with GraalVM](https://2024.europe.jcon.one/) (JCON, Cologne, Germany, 13-16 May, 2024)
+* [Fast and Lightweight Spring Boot Applications with GraalVM](https://2024.geecon.org/speakers/info.html?id=888) (GeeCon, Cracow, Poland, 15-17 May, 2024)
 * [All you need to know about Spring Boot and GraalVM](https://jspring.nl/) (J-Spring, The Netherlands, 13 June 2024)
 * [Going AOT: Everything you need to know about GraalVM for Java applications](https://devoxx.pl/) (Devoxx PL, 19-21 June, 2024)
+
 
 ## Previous talks
 
 ### 2024
 
+* [Going AOT: Everything you need to know about GraalVM for Java applications](https://my.doag.org/events/javaland/2024/agenda/#eventDay.1712613600) (JavaLand, Nürburgring, Germany, 9-11 April, 2024)
 * [Fast And Lightweight Spring Boot Applications With GraalVM](https://jdconf.com/agenda.html#alinay-session) (JDConf EMEA, online, 28 March 2024)
 * [GraalVM for JDK 22 Release stream 🚀](https://www.youtube.com/watch?v=xRcHlBnljwA) (GraalVM Youtube, online, 19 March 2024)
 * [Supercharge your Java applications with GraalVM](https://jforum.confetti.events/jforum-118-meetup) (Jforum, Stockholm, Sweden, 6 January 2024)
