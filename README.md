@@ -14,7 +14,7 @@
 
 * [Going AOT: Everything you need to know about GraalVM for Java applications](https://www.devoxx.fr/schedule/talk/?id=21862) (Devoxx Greece, 18-20 April, 2024)
 * [Bootiful Spring Boot 3 (hosting)](https://www.meetup.com/virtualjug/events/299675358/) (Virtual JUG, virtual, 18 April 2024)
-* [Going AOT: Everything you need to know about GraalVM for Java applications](https://www.devoxx.fr/schedule/talk/?id=21862) (Devoxx France, 17-19 April, 2024)
+* [Going AOT: Everything you need to know about GraalVM for Java applications](https://www.youtube.com/watch?v=ukY9Kzu6sc0) (Devoxx France, 17-19 April, 2024)
 * [High performance with GraalVM](https://www.youtube.com/watch?v=0272oxUbmgc) (The Geek Narrator Podcast, 15 April, 2024)
 * [Going AOT: Everything you need to know about GraalVM for Java applications](https://my.doag.org/events/javaland/2024/agenda/#eventDay.1712613600) (JavaLand, Nürburgring, Germany, 9-11 April, 2024)
 * [Fast And Lightweight Spring Boot Applications With GraalVM](https://jdconf.com/agenda.html#alinay-session) (JDConf EMEA, online, 28 March 2024)
