@@ -14,6 +14,7 @@
 
 ### 2024
 
+* [Cruising Along with Java • Venkat Subramaniam & Alina Yurenko](https://www.youtube.com/watch?v=5mudzKW0tFI) (GOTO Youtube, online, 16 May, 2024)
 * [Going AOT: Everything you need to know about GraalVM for Java applications](https://www.devoxx.fr/schedule/talk/?id=21862) (Devoxx Greece, 18-20 April, 2024)
 * [Bootiful Spring Boot 3 (hosting)](https://www.meetup.com/virtualjug/events/299675358/) (Virtual JUG, virtual, 18 April 2024)
 * [Going AOT: Everything you need to know about GraalVM for Java applications](https://www.youtube.com/watch?v=ukY9Kzu6sc0) (Devoxx France, 17-19 April, 2024)
