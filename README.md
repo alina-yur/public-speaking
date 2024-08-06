@@ -1,7 +1,8 @@
 ## Upcoming talks
 
 * [Going AOT: Everything you need to know about GraalVM for Java applications](https://2024.javazone.no/) (JavaZone, Norway, 4-5 September, 2024)
-* [Going AOT: Everything you need to know about GraalVM for Java applications](https://devoxx.ma/) (Devoxx Morocco, Marrakech, 2-4 October, 2024)
+* [Going AOT: Everything you need to know about GraalVM for Java applications](https://devoxx.ma/) (Devoxx Morocco, 2-4 October, 2024)
+* [Bring the action: using GraalVM in production](https://devoxx.be/) (Devoxx Belgium, 7-11 October, 2024)
 
 
 ## Previous talks
