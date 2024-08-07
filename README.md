@@ -4,6 +4,7 @@
 * [Going AOT: Everything you need to know about GraalVM for Java applications](https://devoxx.ma/) (Devoxx Morocco, 2-4 October, 2024)
 * [Bring the action: using GraalVM in production](https://devoxx.be/) (Devoxx Belgium, 7-11 October, 2024)
 * [Migrating Spring Boot apps to GraalVM](https://devoxx.be/) (Devoxx Belgium, 7-11 October, 2024)
+* [Practical LLM Inference in Modern Java](https://devoxx.be/) (Devoxx Belgium, 7-11 October, 2024)
 
 
 ## Previous talks
