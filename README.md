@@ -1,6 +1,5 @@
 ## Upcoming talks
 
-* [GraalVM with Alina Yurenko](https://www.youtube.com/watch?v=nOezda6u-g0) (Laur Spilca's Youtube, online, 26 August, 2024)
 * [Going AOT: Everything you need to know about GraalVM for Java applications](https://2024.javazone.no/) (JavaZone, Norway, 4-5 September, 2024)
 * [Going AOT: Everything you need to know about GraalVM for Java applications](https://devoxx.ma/) (Devoxx Morocco, 2-4 October, 2024)
 * [Bring the action: using GraalVM in production](https://devoxx.be/) (Devoxx Belgium, 7-11 October, 2024)
@@ -13,6 +12,7 @@
 
 ### 2024
 
+* [GraalVM with Alina Yurenko](https://www.youtube.com/watch?v=nOezda6u-g0) (Laur Spilca's Youtube, online, 26 August, 2024)
 * [Going AOT: Everything you need to know about GraalVM for Java applications](https://devoxx.pl/) (Devoxx Poland, 19-21 June, 2024)
 * [All you need to know about Spring Boot and GraalVM](https://jspring.nl/) (J-Spring, The Netherlands, 13 June 2024)
 * [GraalVM for Java applications (interview with Andres Almiray)](https://www.youtube.com/watch?v=jHswmuUzmmI) (JNation, Portugal, 4-5 June, 2024)
