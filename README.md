@@ -4,6 +4,7 @@
 * [Bring the action: using GraalVM in production](https://devoxx.be/) (Devoxx Belgium, 7-11 October, 2024)
 * [Migrating Spring Boot apps to GraalVM](https://devoxx.be/) (Devoxx Belgium, 7-11 October, 2024)
 * [Practical LLM Inference in Modern Java](https://devoxx.be/) (Devoxx Belgium, 7-11 October, 2024)
+* [Bring the Action: Using GraalVM in Production](https://www.meetup.com/virtualjug/events/302955477/) (Virtual JUG, online, 17 October, 2024)
 * [Migrating Spring Boot apps to GraalVM](https://jfall.nl/) (JFall, The Netherlands, 7 November, 2024)
 * [Bring the action: using GraalVM in production](https://portotechhub.com/conference-2024/) (Porto Tech Hub, Portugal, November 26, 2024)
 
