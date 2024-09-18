@@ -12,6 +12,7 @@
 
 ### 2024
 
+* [Java 23 Release Stream](https://www.youtube.com/watch?v=QG9xKpgwOI4) (Java Youtube, online, 17 September, 2024)
 * [Going AOT: Everything you need to know about GraalVM for Java applications](https://2024.javazone.no/) (JavaZone, Norway, 4-5 September, 2024)
 * [GraalVM with Alina Yurenko](https://www.youtube.com/watch?v=nOezda6u-g0) (Laur Spilca's Youtube, online, 26 August, 2024)
 * [Going AOT: Everything you need to know about GraalVM for Java applications](https://devoxx.pl/) (Devoxx Poland, 19-21 June, 2024)
