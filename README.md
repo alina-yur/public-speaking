@@ -24,7 +24,7 @@
 * [Fast and Lightweight Spring Boot Applications with GraalVM](https://2024.geecon.org/speakers/info.html?id=888) (GeeCon, Cracow, Poland, 15-17 May, 2024)
 * [Java First. Java Always](https://2024.europe.jcon.one/) (JCON, Cologne, Germany, 13-16 May, 2024)
 * [GraalVM @ Gradle Build Propulsion Lab](https://x.com/i/broadcasts/1ypJdkBZAqvGW) (JCON, Cologne, Germany, 13-16 May, 2024)
-* [Fast and Lightweight Spring Boot Applications with GraalVM](https://2024.europe.jcon.one/) (JCON, Cologne, Germany, 13-16 May, 2024)
+* [Fast and Lightweight Spring Boot Applications with GraalVM](https://www.youtube.com/watch?v=cO3DcwEbKoY) (JCON, Cologne, Germany, 13-16 May, 2024)
 * [Going AOT: Everything you need to know about GraalVM for Java applications](https://www.youtube.com/watch?v=t4Hwra4t83w) (Devoxx UK, 8-10 May, 2024)
 * [Cruising Along with Java • Venkat Subramaniam & Alina Yurenko](https://www.youtube.com/watch?v=5mudzKW0tFI) (GOTO Youtube, online, 16 May, 2024)
 * [Going AOT: Everything you need to know about GraalVM for Java applications](https://www.devoxx.fr/schedule/talk/?id=21862) (Devoxx Greece, 18-20 April, 2024)
