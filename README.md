@@ -1,8 +1,5 @@
 ## Upcoming talks
 
-* [Bring the action: using GraalVM in production](https://devoxx.be/) (Devoxx Belgium, 7-11 October, 2024)
-* [Migrating Spring Boot apps to GraalVM](https://devoxx.be/) (Devoxx Belgium, 7-11 October, 2024)
-* [Practical LLM Inference in Modern Java](https://devoxx.be/) (Devoxx Belgium, 7-11 October, 2024)
 * [Bring the Action: Using GraalVM in Production](https://www.meetup.com/virtualjug/events/302955477/) (Virtual JUG, online, 17 October, 2024)
 * [Migrating Spring Boot apps to GraalVM](https://jfall.nl/) (JFall, The Netherlands, 7 November, 2024)
 * [Bring the action: using GraalVM in production](https://portotechhub.com/conference-2024/) (Porto Tech Hub, Portugal, November 26, 2024)
@@ -12,6 +9,9 @@
 
 ### 2024
 
+* [Bring the action: using GraalVM in production](https://www.youtube.com/watch?v=axQXBKHSwkM) (Devoxx Belgium, 7-11 October, 2024)
+* [Migrating Spring Boot apps to GraalVM](https://www.youtube.com/watch?v=yQC6LBSw2zs) (Devoxx Belgium, 7-11 October, 2024)
+* [Practical LLM Inference in Modern Java](https://www.youtube.com/watch?v=zgAMxC7lzkc) (Devoxx Belgium, 7-11 October, 2024)
 * [GraalVM for JDK 23 Release Stream](https://www.youtube.com/watch?v=8puMt1gVOr8) (GraalVM Youtube, online, 17 September, 2024)
 * [Java 23 Release Stream](https://www.youtube.com/watch?v=QG9xKpgwOI4) (Java Youtube, online, 17 September, 2024)
 * [Going AOT: Everything you need to know about GraalVM for Java applications](https://2024.javazone.no/) (JavaZone, Norway, 4-5 September, 2024)
