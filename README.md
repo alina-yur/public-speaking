@@ -1,12 +1,11 @@
 ## Upcoming talks
 
-* 🇵🇹 [Bring the action: using GraalVM in production](https://portotechhub.com/conference-2024/) (Porto Tech Hub, Portugal, November 26, 2024)
-
 
 ## Previous talks
 
 ### 2024
 
+* 🇵🇹 [Bring the action: using GraalVM in production](https://portotechhub.com/conference-2024/) (Porto Tech Hub, Portugal, November 26, 2024)
 * 🇳🇱 [Migrating Spring Boot apps to GraalVM](https://jfall.nl/) (JFall, The Netherlands, 7 November, 2024)
 * 🌍 [Bring the action: using GraalVM in production](https://www.youtube.com/live/3zGERjbzqDE) (Virtual JUG, online, 18 October, 2024)
 * 🇧🇪 [Bring the action: using GraalVM in production](https://www.youtube.com/watch?v=axQXBKHSwkM) (Devoxx Belgium, 7-11 October, 2024)
