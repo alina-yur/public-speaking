@@ -1,0 +1,4 @@
+# From CLIs to LLMs: 5 cool applications to build with GraalVM
+
+Many people know GraalVM for its performance and resource efficiency. One of the questions that often remains is what applications one can build with it in practice. While serverless and microservices applications are an obvious first choice, there’s so much more. You can build quick and compact CLI applications, that are also very fast to respond. You can build an entire full-stack application, with the backend combining the power of the  Java and platform and performance of GraalVM. You can even build an LLM inference engine in pure Java and make it very fast with GraalVM’s ahead-of-time optimizations.<br><br>
+In this hands-on session we’ll go through all of those categories of apps and more, as well as tips, recommended practices, and gotchas.
