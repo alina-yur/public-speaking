@@ -1,6 +1,7 @@
 ## Upcoming talks
 
 * 🇨🇭 [Bring the Action: Using GraalVM in Production](https://cern.voxxeddays.com/) (Voxxed Days CERN, Switzerland, 15 January 2025)
+* 🇨🇭 [Bring the Action: Using GraalVM in Production](https://ticino.voxxeddays.com/) (Voxxed Days Ticino, Switzerland, 17 January 2025)
   
 
 
