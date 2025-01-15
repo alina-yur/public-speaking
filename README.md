@@ -2,7 +2,7 @@
 
 * 🇨🇭 [Bring the Action: Using GraalVM in Production](https://cern.voxxeddays.com/) (Voxxed Days CERN, Switzerland, 15 January 2025)
 * 🇨🇭 [Bring the Action: Using GraalVM in Production](https://ticino.voxxeddays.com/) (Voxxed Days Ticino, Switzerland, 17 January 2025)
-* 🇺🇸 [Using GraalVM in Production](https://www.oracle.com/javaone/) (Java One, 18-20 March, USA, 2025)
+* 🇺🇸 [Using GraalVM in Production](https://www.oracle.com/javaone/) (JavaOne, 18-20 March, USA, 2025)
 * 🇨🇭 [Practical LLM Inference in Modern Java](https://zurich.voxxeddays.com/) (Voxxed Days Zurich, 25 March, Switzerland, 2025)
 * 🇬🇷 [Bring the Action: Using GraalVM in Production](https://devoxx.gr/) (Devoxx Greece, 10-12 April, 2025)
 
