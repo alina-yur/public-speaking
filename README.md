@@ -14,7 +14,7 @@
 
 ### 2025
 
-* 🇨🇭 [Bring the Action: Using GraalVM in Production](https://cern.voxxeddays.com/) (Voxxed Days CERN, Switzerland, 15 January 2025)
+* 🇨🇭 [Bring the Action: Using GraalVM in Production](https://www.youtube.com/watch?v=lJ6627CD8n4) (Voxxed Days CERN, Switzerland, 15 January 2025)
 * 🇨🇭 [Bring the Action: Using GraalVM in Production](https://ticino.voxxeddays.com/) (Voxxed Days Ticino, Switzerland, 17 January 2025)
 
 
