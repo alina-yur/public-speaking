@@ -8,6 +8,7 @@
 * 🇫🇷 [Bring the Action: Using GraalVM in Production](https://www.devoxx.fr/) (Devoxx France, 16-18 April, 2025)
 * 🇬🇧 [Bring the Action: Using GraalVM in Production](https://www.devoxx.co.uk/) (Devoxx UK, 7-9 May, 2025)
 * 🇩🇪 [5 cool applications to build with GraalVM](https://2025.europe.jcon.one/) (JCON, Germany, 12-15 May, 2025)
+* 🇪🇸 [5 cool applications to build with GraalVM](https://www.devbcn.com/) (DevBcn, Spain, 8-10 July, 2025)
 
 
 ## Previous talks
