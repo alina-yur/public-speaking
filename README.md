@@ -13,12 +13,13 @@
 * 🇨🇭 [Bring the Action: Using GraalVM in Production](https://ticino.voxxeddays.com/) (Voxxed Days Ticino, Switzerland, 17 January 2025)
 * 🇺🇸 [Using GraalVM in Production](https://www.oracle.com/javaone/) (JavaOne, 18-20 March, USA, 2025)
 * 🇨🇭 [Practical LLM Inference in Modern Java](https://www.youtube.com/watch?v=KooKPWB_ktk) (Voxxed Days Zurich, 25 March, Switzerland, 2025)
-* 🌍 [GraalVM for JDK 24 Release stream](https://www.youtube.com/watch?v=_3a0QU2pkrA) (GraalVM Youtube, online, 26 March 2025)
+* 🌍 [GraalVM for JDK 24 Release stream](https://www.youtube.com/watch?v=_3a0QU2pkrA) (GraalVM Youtube, 26 March 2025)
 * 🇳🇱 [[Deep Dive] Bring the Action: Using GraalVM in Production](https://www.youtube.com/watch?v=VVUngUrMjAo) (Voxxed Days Amsterdam, The Netherlands, 3 April, 2025)
 * 🇬🇷 [Bring the Action: Using GraalVM in Production](https://devoxx.gr/) (Devoxx Greece, 10-12 April, 2025)
 * 🇫🇷 [Bring the Action: Using GraalVM in Production](https://www.devoxx.fr/) (Devoxx France, 16-18 April, 2025)
 * 🇬🇧 [Bring the Action: Using GraalVM in Production](https://www.youtube.com/watch?v=oYcxUx0RHzc) (Devoxx UK, 7-9 May, 2025)
 * 🇩🇪 [5 cool applications to build with GraalVM](https://2025.europe.jcon.one/) (JCON, Germany, 12-15 May, 2025)
+* 🌍 [Extending Java with Python and JavaScript at Picnic With Rick Ossendrijver](https://www.youtube.com/watch?v=-JuchoMU75U) (GraalVM YouTube, 20 May, 2025)
 
 ### 2024
 
