@@ -20,7 +20,7 @@
 * 🇩🇪 [5 cool applications to build with GraalVM](https://2025.europe.jcon.one/) (JCON, Germany, 12-15 May, 2025)
 * 🌍 [Extending Java with Python and JavaScript at Picnic With Rick Ossendrijver](https://www.youtube.com/watch?v=-JuchoMU75U) (GraalVM YouTube, 20 May, 2025)
 * 🇵🇹 [5 cool applications to build with GraalVM](https://www.youtube.com/watch?v=gQ8HjB8u8J4) (JNation, Portugal, 27-28 May, 2025)
-* 🇵🇹 [JNation interview: talking about GraalVM, Java community, and more)() (JNation, Portugal, 27-28 May, 2025)
+* 🇵🇹 [JNation interview: talking about GraalVM, Java community, and more]() (JNation, Portugal, 27-28 May, 2025)
 
 ### 2024
 
