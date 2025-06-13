@@ -1,6 +1,5 @@
 ## Upcoming talks
 
-* 🇵🇱 [Bring the Action: Using GraalVM in Production](https://devoxx.pl/) (Devoxx PL, 11-13 June, 2025)
 * 🇪🇸 [5 cool applications to build with GraalVM](https://www.devbcn.com/) (DevBcn, Spain, 8-10 July, 2025)
 
 
@@ -21,6 +20,7 @@
 * 🌍 [Extending Java with Python and JavaScript at Picnic With Rick Ossendrijver](https://www.youtube.com/watch?v=-JuchoMU75U) (GraalVM YouTube, 20 May, 2025)
 * 🇵🇹 [5 cool applications to build with GraalVM](https://www.youtube.com/watch?v=gQ8HjB8u8J4) (JNation, Portugal, 27-28 May, 2025)
 * 🇵🇹 [JNation interview: talking about GraalVM, Java community, and more]() (JNation, Portugal, 27-28 May, 2025)
+* 🇵🇱 [Bring the Action: Using GraalVM in Production](https://devoxx.pl/) (Devoxx PL, 11-13 June, 2025)
 
 ### 2024
 
