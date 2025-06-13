@@ -1,5 +1,6 @@
 ## Upcoming talks
 
+* 🌍 [Bring the Action: Using GraalVM in Production](https://www.youtube.com/watch?v=AwTaOvA5p_s) (Java 30Y Celebration Week, SouJava YouTube, 18 June, 2025)
 * 🇪🇸 [5 cool applications to build with GraalVM](https://www.devbcn.com/) (DevBcn, Spain, 8-10 July, 2025)
 
 
