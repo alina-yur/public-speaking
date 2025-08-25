@@ -23,10 +23,10 @@
 * 🇩🇪 [5 cool applications to build with GraalVM](https://2025.europe.jcon.one/) (JCON, Germany, 12-15 May, 2025)
 * 🌍 [Extending Java with Python and JavaScript at Picnic With Rick Ossendrijver](https://www.youtube.com/watch?v=-JuchoMU75U) (GraalVM YouTube, 20 May, 2025)
 * 🇵🇹 [5 cool applications to build with GraalVM](https://www.youtube.com/watch?v=gQ8HjB8u8J4) (JNation, Portugal, 27-28 May, 2025)
-* 🇵🇹 [JNation interview: talking about GraalVM, Java community, and more]() (JNation, Portugal, 27-28 May, 2025)
+* 🇵🇹 [JNation interview: talking about GraalVM, Java community, and more](https://www.youtube.com/watch?v=mqSBSumNV1M) (JNation, Portugal, 27-28 May, 2025)
 * 🇵🇱 [Bring the Action: Using GraalVM in Production](https://devoxx.pl/) (Devoxx PL, 11-13 June, 2025)
 * 🌍 [Bring the Action: Using GraalVM in Production](https://www.youtube.com/live/AwTaOvA5p_s?si=x-60lAcjXO30qiG7&t=7129) (Java 30Y Celebration Week, SouJava YouTube, 18 June, 2025)
-* 🇪🇸 [5 cool applications to build with GraalVM](https://www.devbcn.com/) (DevBcn, Spain, 8-10 July, 2025)
+* 🇪🇸 [5 cool applications to build with GraalVM](https://www.youtube.com/watch?v=t6id9pVzEP0) (DevBcn, Spain, 8-10 July, 2025)
 
 ### 2024
 
