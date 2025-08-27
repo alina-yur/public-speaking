@@ -86,3 +86,7 @@
 * 🇧🇪 [GraalVM BOF](https://devoxx.be/talk/?id=42006) (Devoxx Belgium, 2-6 October 2023)
 * 🌍 [Everything you need to know about GraalVM Native Image](https://www.slideshare.net/alinayurenko/everything-you-need-to-know-about-graalvm-native-image) (Cape Town JUG, 26 October 2023)
 * 🇳🇱 [Going AOT: Everything you need to know about GraalVM for Java applications](https://www.youtube.com/watch?v=yUSLpvYHxeg) (JFall, the Netherlands, 9 Novemeber 2023)
+
+#### 2022
+
+* 🇵🇱 [Cloud-Native Applications with GraalVM](https://www.youtube.com/watch?v=BWIkoXyXUDM) (Devoxx Poland, 2022)
