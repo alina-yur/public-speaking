@@ -1,9 +1,5 @@
 ## Upcoming talks
 
-* 🇧🇪 [[Deep Dive] GraalVM in Practice]() (Devoxx Belgium, 6-10 October 2025)
-* 🇧🇪 [GraalVM BOF]() (Devoxx Belgium, 6-10 October 2025)
-
-
 ## Previous talks
 
 ### 2025
@@ -25,6 +21,8 @@
 * 🌍 [Bring the Action: Using GraalVM in Production](https://www.youtube.com/live/AwTaOvA5p_s?si=x-60lAcjXO30qiG7&t=7129) (Java 30Y Celebration Week, SouJava YouTube, 18 June, 2025)
 * 🇪🇸 [5 cool applications to build with GraalVM](https://www.youtube.com/watch?v=t6id9pVzEP0) (DevBcn, Spain, 8-10 July, 2025)
 * 🇳🇴 [Fun With (Native Image) Flags 🏁](https://2025.javazone.no/en) (JavaZone, Norway, September 3-4, 2025)
+* 🇧🇪 [[Deep Dive] GraalVM in Practice]() (Devoxx Belgium, 6-10 October 2025)
+* 🇧🇪 [GraalVM BOF]() (Devoxx Belgium, 6-10 October 2025)
 
 ### 2024
 
