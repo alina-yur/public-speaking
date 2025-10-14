@@ -1,5 +1,7 @@
 ## Upcoming talks
 
+* 🇲🇦 [[Deep Dive] Bring the Action: Using GraalVM in Production](https://devoxx.ma) (Devoxx Morocco, 12-14 November,2025)
+  
 ## Previous talks
 
 ### 2025
