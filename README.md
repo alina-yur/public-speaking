@@ -1,7 +1,6 @@
 ## Upcoming talks
 
-* 🇲🇦 [[Deep Dive] Bring the Action: Using GraalVM in Production](https://devoxx.ma) (Devoxx Morocco, 12-14 November,2025)
-* 🇳🇱 [TBA](https://amsterdam.voxxeddays.com/) (Voxxed Days Amsterdam, The Netherlands, 1-2 April, 2026)
+* 🇳🇱 [Voxxed Days Amsterdam](https://amsterdam.voxxeddays.com/) (Voxxed Days Amsterdam, The Netherlands, 1-2 April, 2026)
   
 ## Previous talks
 
@@ -26,6 +25,7 @@
 * 🇳🇴 [Fun With (Native Image) Flags 🏁](https://2025.javazone.no/en) (JavaZone, Norway, September 3-4, 2025)
 * 🇧🇪 [[Deep Dive] GraalVM in Practice]() (Devoxx Belgium, 6-10 October 2025)
 * 🇧🇪 [GraalVM BOF]() (Devoxx Belgium, 6-10 October 2025)
+* 🇲🇦 [[Deep Dive] Bring the Action: Using GraalVM in Production](https://devoxx.ma) (Devoxx Morocco, 12-14 November,2025)
 
 ### 2024
 
