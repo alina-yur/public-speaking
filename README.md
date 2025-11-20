@@ -1,5 +1,6 @@
 ## Upcoming talks
 
+- **Native apps with GraalVM** at Devoxx
 * 🇳🇱 [Voxxed Days Amsterdam](https://amsterdam.voxxeddays.com/) (Voxxed Days Amsterdam, The Netherlands, 1-2 April, 2026)
   
 ## Previous talks
