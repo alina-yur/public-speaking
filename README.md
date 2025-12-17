@@ -1,5 +1,6 @@
 ## Upcoming talks
 
+* [Devoxx France]() (GraalVM Native Image in action, Paris, France)
 * 🇳🇱 [Voxxed Days Amsterdam](https://amsterdam.voxxeddays.com/) (Voxxed Days Amsterdam, The Netherlands, 1-2 April, 2026)
   
 ## Previous talks
