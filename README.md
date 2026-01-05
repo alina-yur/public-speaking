@@ -1,6 +1,7 @@
 ## Upcoming talks
 
 * 🇳🇱 [Voxxed Days Amsterdam](https://amsterdam.voxxeddays.com/) (Voxxed Days Amsterdam, The Netherlands, 1-2 April, 2026)
+* 🇬🇷 [Building Fast AI Search and Automation with GraalVM](https://devoxx.gr/) (Devoxx Greece, 23-25 April, 2026)
   
 ## Previous talks
 
