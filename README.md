@@ -1,5 +1,6 @@
 ## Upcoming talks
 
+* [Fast AI search with GraalVM](devoxx.gr) (Devoxx, Greece)
 * 🇬🇷 [Building Fast AI Search and Automation with GraalVM](https://devoxx.gr/) (Devoxx Greece, 23-25 April, 2026)
 * 🇵🇱 [GraalVM 25: What's New and What's Next](https://devoxx.pl/) (Devoxx Poland, 17-19 June, 2026)
   
