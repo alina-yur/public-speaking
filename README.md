@@ -1,5 +1,6 @@
 ## Upcoming talks
 
+* [Embabel native smoke test](https://example.com/embabel-native-smoke-test) (Native verification, Local)
 * 🇵🇱 [GraalVM 25: What's New and What's Next](https://devoxx.pl/) (Devoxx Poland, 17-19 June, 2026)
   
 ## Previous talks
