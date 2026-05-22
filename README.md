@@ -1,5 +1,6 @@
 ## Upcoming talks
 
+* GraalVM in practice (Devoxx Morocco 2025, Marrakesh, Morocco)
 * 🇵🇱 [GraalVM 25: What's New and What's Next](https://devoxx.pl/) (Devoxx Poland, 17-19 June, 2026)
   
 ## Previous talks
