@@ -11,6 +11,7 @@
 * 🇬🇷 [Building Fast AI Search and Automation with GraalVM](https://devoxx.gr/) (Devoxx Greece, 23-25 April, 2026)
 * 🌎 [Floci: lightweight local AWS emulator, powered by GraalVM](https://www.youtube.com/watch?v=wQVQHuJ0FC0) (GraalVM YouTube, 17 June, 2026)
 * 🇵🇱 [GraalVM 25: What's New and What's Next](https://devoxx.pl/) (Devoxx Poland, 17-19 June, 2026)
+* 🌎 [GraalVM 25.1 Release Stream](https://www.youtube.com/watch?v=vmPscsMBqFc) (GraalVM YouTube, 30 June, 2026)
 
 
 ### 2025
