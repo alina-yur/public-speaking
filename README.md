@@ -1,8 +1,11 @@
 ## Upcoming talks
 
 * 🇵🇱 [What's New and What's Next for GraalVM](https://confitura.pl) (Confitura, Poland, 25–26 September, 2026)
+* 🇧🇪 [Expanding Vector Search Beyond Similarity](https://devoxx.be) (Devoxx Belgium, Belgium, 5–9 October, 2026)
+* 🇧🇪 [GraalVM Next: Layers, Crema, and WebAssembly in Action](https://devoxx.be) (Devoxx Belgium, Belgium, 5–9 October, 2026)
 * 🇸🇪 [What's New and What's Next for GraalVM](https://oredev.org/) (Øredev, Sweden, 4-6 November, 2026)
 * 🇵🇹 [Building Fast AI Search and Automation with GraalVM](https://portotechhub.com/conference-2024/) (Porto Tech Hub, Portugal, November 10, 2026)
+* 🇬🇷 [TBA](https://voxxeddays.com/thessaloniki/) (Voxxed Days Thessaloniki, Greece, 20-21 November, 2026)
   
 ## Previous talks
 
@@ -98,6 +101,34 @@
 * 🌍 [Everything you need to know about GraalVM Native Image](https://www.slideshare.net/alinayurenko/everything-you-need-to-know-about-graalvm-native-image) (Cape Town JUG, 26 October 2023)
 * 🇳🇱 [Going AOT: Everything you need to know about GraalVM for Java applications](https://www.youtube.com/watch?v=yUSLpvYHxeg) (JFall, the Netherlands, 9 Novemeber 2023)
 
-#### 2022
+### 2022
 
-* 🇵🇱 [Cloud-Native Applications with GraalVM](https://www.youtube.com/watch?v=BWIkoXyXUDM) (Devoxx Poland, 2022)
+* 🇨🇭 [Cloud-Native Applications with GraalVM](https://www.devoxx.com/speaker/alina-yurenko) (Voxxed Days Zurich, Switzerland, May 2022)
+* 🇵🇱 [Cloud-Native Applications with GraalVM](https://www.youtube.com/watch?v=BWIkoXyXUDM) (Devoxx Poland, Poland, 2022)
+* 🇧🇪 [Supercharge your Native Image applications in 5 steps!](https://www.youtube.com/results?search_query=Alina+Yurenko+Supercharge+your+Native+Image+applications+in+5+steps) (Devoxx Belgium, Belgium, October 2022)
+* 🇧🇪 [Revolutionizing Java-Based Applications with GraalVM](https://www.youtube.com/watch?v=mhmqomex1zk) (Devoxx Belgium, Belgium, October 2022)
+* 🇧🇪 [Fast and Furious Full-Stack Development with JHipster & Spring Native](https://www.devoxx.com/speaker/alina-yurenko) (Devoxx Belgium, Belgium, October 2022)
+
+### 2021
+
+* 🌍 [Fast and Efficient Java Microservices with GraalVM](https://community.cncf.io/events/details/cncf-malaga-presents-cloud-native-talks-fast-and-efficient-java-microservices-with-graalvm-with-alina-yurenko/) (Cloud Native Málaga, Online, 25 February 2021)
+* 🌍 [GraalVM Project and Building the Community](https://oraclegroundbreakers.libsyn.com/2021/11) (Duke's Corner, Online, 30 November 2021)
+
+### 2020
+
+* 🇺🇦 [Intro to GraalVM and Native Images](https://dou.ua/calendar/30821/) (CoffeeJUG, Lviv, Ukraine, 22 January 2020)
+* 🇸🇪 [Maximizing Applications Performance with GraalVM](https://www.jfokus.se/jfokus20-preso/Maximizing-Applications-Performance-with-GraalVM.pdf) (Jfokus, Stockholm, Sweden, 5 February 2020)
+* 🇬🇧 [Maximizing Applications Performance with GraalVM](https://archive.qconlondon.com/london2020/presentation/maximizing-applications-performance-graalvm) (QCon London, UK, March 2020)
+* 🌍 [Fast and Efficient Java microservices with GraalVM](https://edition2020.devtalks.ro/agenda/) (DevTalks, Online, 2020)
+* 🎙️ [GraalVM Project and Building the Community](https://oraclegroundbreakers.libsyn.com/2021) (Jfokus interview, Stockholm, Sweden, February 2020)
+
+### 2019
+
+* 🌍 [GraalVM: Run Programs Faster Everywhere](https://inside.java/u/AlinaYurenko/) (Oracle / Inside Java, Online, 4 April 2019)
+* 🇧🇾 [New opportunities for Java developers with GraalVM](https://voxxeddays.com/minsk/2019-2) (Voxxed Days Minsk, Belarus, 23–25 May 2019)
+* 🇬🇧 [New Opportunities for Developers with GraalVM](https://jaxlondon.com/archive-2019/) (JAX London, UK, 2019)
+* 🇺🇸 [JIT vs AOT Performance With GraalVM](https://archive.qconsf.com/sf2019/presentation/performance) (QCon San Francisco, USA, 2019)
+* 🇺🇦 [New opportunities for Java developers with GraalVM](https://www.devoxx.com/speaker/alina-yurenko) (Devoxx Ukraine, Ukraine, November 2019)
+* 🇺🇦 [Optimizing performance of Java applications with GraalVM](https://www.devoxx.com/speaker/alina-yurenko) (Devoxx Ukraine, Ukraine, November 2019)
+
+### 2018
