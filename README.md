@@ -14,6 +14,7 @@
 * 🇳🇱 [[GraalVM 25: What's New and What's Next](https://amsterdam.voxxeddays.com/) (Voxxed Days Amsterdam, The Netherlands, 1-2 April, 2026)
 * 🇪🇸 [Spring Native: The Future of Fast and Efficient Spring Applications](https://www.youtube.com/watch?v=cpHrLgJ-OJY) (Spring I/O, Spain, 14-15 April, 2026)
 * 🇬🇷 [Building Fast AI Search and Automation with GraalVM](https://devoxx.gr/) (Devoxx Greece, 23-25 April, 2026)
+* 🇬🇷 [Public speaking workshop](https://devoxx.gr/talk/?id=18102) (Devoxx Greece, Greece, 24 April, 2026)
 * 🌎 [Floci: lightweight local AWS emulator, powered by GraalVM](https://www.youtube.com/watch?v=wQVQHuJ0FC0) (GraalVM YouTube, 17 June, 2026)
 * 🇵🇱 [GraalVM 25: What's New and What's Next](https://devoxx.pl/) (Devoxx Poland, 17-19 June, 2026)
 * 🌎 [GraalVM 25.1 Release Stream](https://www.youtube.com/watch?v=vmPscsMBqFc) (GraalVM YouTube, 30 June, 2026)
@@ -38,8 +39,8 @@
 * 🌍 [Bring the Action: Using GraalVM in Production](https://www.youtube.com/live/AwTaOvA5p_s?si=x-60lAcjXO30qiG7&t=7129) (Java 30Y Celebration Week, SouJava YouTube, 18 June, 2025)
 * 🇪🇸 [5 cool applications to build with GraalVM](https://www.youtube.com/watch?v=t6id9pVzEP0) (DevBcn, Spain, 8-10 July, 2025)
 * 🇳🇴 [Fun With (Native Image) Flags 🏁](https://2025.javazone.no/en) (JavaZone, Norway, September 3-4, 2025)
-* 🇧🇪 [[Deep Dive] GraalVM in Practice]() (Devoxx Belgium, 6-10 October 2025)
-* 🇧🇪 [GraalVM BOF]() (Devoxx Belgium, 6-10 October 2025)
+* 🇧🇪 [Deep Dive: GraalVM in Practice](https://www.youtube.com/watch?v=1J6mbMReOnI) (Devoxx Belgium, Belgium, 6-10 October, 2025)
+* 🇧🇪 [GraalVM Community BOF](https://m.devoxx.com/events/dvbe25/talks/8911/graalvm-community-bof) (Devoxx Belgium, Belgium, 6-10 October, 2025)
 * 🇲🇦 [[Deep Dive] Bring the Action: Using GraalVM in Production](https://devoxx.ma) (Devoxx Morocco, 12-14 November,2025)
 
 ### 2024
@@ -50,6 +51,7 @@
 * 🇧🇪 [Bring the action: using GraalVM in production](https://www.youtube.com/watch?v=axQXBKHSwkM) (Devoxx Belgium, 7-11 October, 2024)
 * 🇧🇪 [Migrating Spring Boot apps to GraalVM](https://www.youtube.com/watch?v=yQC6LBSw2zs) (Devoxx Belgium, 7-11 October, 2024)
 * 🇧🇪 [Practical LLM Inference in Modern Java](https://www.youtube.com/watch?v=zgAMxC7lzkc) (Devoxx Belgium, 7-11 October, 2024)
+* 🇧🇪 [Native Image Layers, GraalOS, and More - Discuss the Future of GraalVM](https://www.devoxx.com/speaker/alina-yurenko) (Devoxx Belgium, Belgium, 7-11 October, 2024)
 * 🌍 [GraalVM for JDK 23 Release Stream](https://www.youtube.com/watch?v=8puMt1gVOr8) (GraalVM Youtube, online, 17 September, 2024)
 * 🌍 [Java 23 Release Stream](https://www.youtube.com/watch?v=QG9xKpgwOI4) (Java Youtube, online, 17 September, 2024)
 * 🇳🇴 [Going AOT: Everything you need to know about GraalVM for Java applications](https://2024.javazone.no/) (JavaZone, Norway, 4-5 September, 2024)
@@ -70,6 +72,7 @@
 * 🇫🇷 [Going AOT: Everything you need to know about GraalVM for Java applications](https://www.youtube.com/watch?v=ukY9Kzu6sc0) (Devoxx France, 17-19 April, 2024)
 * 🌍 [High performance with GraalVM](https://www.youtube.com/watch?v=0272oxUbmgc) (The Geek Narrator Podcast, 15 April, 2024)
 * 🇩🇪 [Going AOT: Everything you need to know about GraalVM for Java applications](https://my.doag.org/events/javaland/2024/agenda/#eventDay.1712613600) (JavaLand, Nürburgring, Germany, 9-11 April, 2024)
+* 🇷🇴 [Fast And Lightweight Spring Boot Applications With GraalVM](https://romania.voxxeddays.com/voxxed-days-bucharest-2024/) (Voxxed Days Bucharest, Romania, 27-29 March, 2024)
 * 🌍 [Fast And Lightweight Spring Boot Applications With GraalVM](https://jdconf.com/agenda.html#alinay-session) (JDConf EMEA, online, 28 March 2024)
 * 🌍 [GraalVM for JDK 22 Release stream 🚀](https://www.youtube.com/watch?v=xRcHlBnljwA) (GraalVM Youtube, online, 19 March 2024)
 * 🇸🇪 [Supercharge your Java applications with GraalVM](https://jforum.confetti.events/jforum-118-meetup) (Jforum, Stockholm, Sweden, 6 January 2024)
@@ -100,18 +103,22 @@
 * 🇧🇪 [GraalVM BOF](https://devoxx.be/talk/?id=42006) (Devoxx Belgium, 2-6 October 2023)
 * 🌍 [Everything you need to know about GraalVM Native Image](https://www.slideshare.net/alinayurenko/everything-you-need-to-know-about-graalvm-native-image) (Cape Town JUG, 26 October 2023)
 * 🇳🇱 [Going AOT: Everything you need to know about GraalVM for Java applications](https://www.youtube.com/watch?v=yUSLpvYHxeg) (JFall, the Netherlands, 9 Novemeber 2023)
+* 🇳🇱 [Unleashing Native Imaging Power in GraalVM](https://www.youtube.com/watch?v=VS3fW2dJXMQ) (GOTO Unscripted, the Netherlands, 5 December, 2023)
 
 ### 2022
 
 * 🇨🇭 [Cloud-Native Applications with GraalVM](https://www.devoxx.com/speaker/alina-yurenko) (Voxxed Days Zurich, Switzerland, May 2022)
+* 🌍 [Do more with GraalVM](https://learn.microsoft.com/en-us/shows/jdconf-2022/do-more-with-graalvm) (JDConf, online, 6 May, 2022)
+* 🇳🇴 [Do more with GraalVM](https://2022.javazone.no/#/program/624a7e82-bcfe-4d02-b7a6-59ba56107e52) (JavaZone, Norway, 7-8 September, 2022)
 * 🇵🇱 [Cloud-Native Applications with GraalVM](https://www.youtube.com/watch?v=BWIkoXyXUDM) (Devoxx Poland, Poland, 2022)
-* 🇧🇪 [Supercharge your Native Image applications in 5 steps!](https://www.youtube.com/results?search_query=Alina+Yurenko+Supercharge+your+Native+Image+applications+in+5+steps) (Devoxx Belgium, Belgium, October 2022)
+* 🇧🇪 [Supercharge your Native Image applications in 5 steps!](https://www.youtube.com/watch?v=gPA-yE6q_PQ) (Devoxx Belgium, Belgium, October 2022)
 * 🇧🇪 [Revolutionizing Java-Based Applications with GraalVM](https://www.youtube.com/watch?v=mhmqomex1zk) (Devoxx Belgium, Belgium, October 2022)
 * 🇧🇪 [Fast and Furious Full-Stack Development with JHipster & Spring Native](https://www.devoxx.com/speaker/alina-yurenko) (Devoxx Belgium, Belgium, October 2022)
 
 ### 2021
 
 * 🌍 [Fast and Efficient Java Microservices with GraalVM](https://community.cncf.io/events/details/cncf-malaga-presents-cloud-native-talks-fast-and-efficient-java-microservices-with-graalvm-with-alina-yurenko/) (Cloud Native Málaga, Online, 25 February 2021)
+* 🌍 [Fast and Efficient Microservices for Java with GraalVM](https://www.youtube.com/watch?v=_eRD6qJqtNw) (Oracle Developer Live: Java Innovations, online, 30 March, 2021)
 * 🌍 [GraalVM Project and Building the Community](https://oraclegroundbreakers.libsyn.com/2021/11) (Duke's Corner, Online, 30 November 2021)
 
 ### 2020
