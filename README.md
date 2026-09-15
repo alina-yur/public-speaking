@@ -5,7 +5,7 @@
 * 🇧🇪 [GraalVM Next: Layers, Crema, and WebAssembly in Action](https://devoxx.be) (Devoxx Belgium, Belgium, 5–9 October, 2026)
 * 🇸🇪 [What's New and What's Next for GraalVM](https://oredev.org/) (Øredev, Sweden, 4-6 November, 2026)
 * 🇵🇹 [Building Fast AI Search and Automation with GraalVM](https://portotechhub.com/conference-2024/) (Porto Tech Hub, Portugal, November 10, 2026)
-* 🇬🇷 [TBA](https://voxxeddays.com/thessaloniki/) (Voxxed Days Thessaloniki, Greece, 20-21 November, 2026)
+* 🇬🇷 [What’s New and What’s Next in GraalVM](https://voxxeddays.com/thessaloniki/) (Voxxed Days Thessaloniki, Greece, 20-21 November, 2026)
   
 ## Previous talks
 
