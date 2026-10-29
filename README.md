@@ -17,6 +17,7 @@
 * 🇵🇱 [What's New and What's Next for GraalVM](https://confitura.pl) (Confitura, Poland, 25–26 September, 2026)
 * 🇧🇪 [Expanding Vector Search Beyond Similarity](https://devoxx.be) (Devoxx Belgium, Belgium, 5–9 October, 2026)
 * 🇧🇪 [GraalVM Next: Layers, Crema, and WebAssembly in Action](https://devoxx.be) (Devoxx Belgium, Belgium, 5–9 October, 2026)
+* 🇨🇭 [GraalVM Community Summit](https://www.graalvm.org/community/summit) (Zurich, Switzerland, 21-22 October, 2026)
 
 
 ### 2025
