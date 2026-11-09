@@ -1,5 +1,6 @@
 ## Upcoming talks
 
+* The future of GraalVM (Porto Tech Hub 2027, Porto)
 * 🇸🇪 [What's New and What's Next for GraalVM](https://oredev.org/) (Øredev, Sweden, 4-6 November, 2026)
 * 🇵🇹 [Building Fast AI Search and Automation with GraalVM](https://portotechhub.com/conference-2024/) (Porto Tech Hub, Portugal, November 10, 2026)
 * 🇬🇷 [What’s New and What’s Next in GraalVM](https://voxxeddays.com/thessaloniki/) (Voxxed Days Thessaloniki, Greece, 20-21 November, 2026)
